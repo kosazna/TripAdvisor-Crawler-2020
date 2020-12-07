@@ -22,3 +22,5 @@ Run TA_Crawler_Single providing the necessary information and it will extract al
 Run TA_Crawler_Multiple, provided that you have entered every hotel you want to parse in the `hotels_to_parse.xlsx` and all the reviews will be extracted from all the hotels.
 
 ! TA_Crawler_Multiple may throw errors from time to time. Just save your data up to this point. Restart the kernel, delete all the parsed hotels from the excel file and continue from there. Should errors be thrown to you again just repeat the above described process.
+
+The project is avalaible under MIT license.
